@@ -1,7 +1,7 @@
 name: 5amSunrises
 favicon: null
-layout_spectrum: 0.2489883608650416
-typography_spectrum: 0.7788301683031023
+layout_spectrum: 0.88304
+typography_spectrum: 0.25746
 title: 5am Sunrises
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.5176732039544731
+  brandStrength: 0.875
   lightness: 0.5951776260044426
   saturation: 0.668715852778405
   rhythmicContrast: 0.3424562804866582
