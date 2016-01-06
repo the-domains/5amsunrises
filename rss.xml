@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[5am Sunrises]]></title>
         <description><![CDATA[5am Sunrises]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/5amsunrises/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 16:42:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jan 2016 16:43:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/5amsunrises/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[over mij]]></title>
+            <description><![CDATA[<article><h1>over mij</h1><p>test navigatie ?</p></article>]]></description>
+            <link>https://thegrid.ai/5amsunrises/over-mij/index.html</link>
+            <guid isPermaLink="false">4e1542a4-81c7-4ad0-9a96-13913d9b8cd9</guid>
+            <pubDate>Wed, 06 Jan 2016 16:43:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test]]></title>
             <description><![CDATA[<article><h1>Test</h1><p>test 1</p></article>]]></description>
-            <link>undefinedtest/index.html</link>
+            <link>https://thegrid.ai/5amsunrises/test/index.html</link>
             <guid isPermaLink="false">d8cb9967-96bf-4709-b12d-78c0250234ec</guid>
             <pubDate>Wed, 06 Jan 2016 16:42:22 GMT</pubDate>
         </item>
