@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[5am Sunrises]]></title>
         <description><![CDATA[5am Sunrises]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/5amsunrises/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 15:55:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jan 2016 15:56:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/5amsunrises/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ac70416-3c86-4982-9c8a-f35d6710d419.jpg">]]></description>
+            <link>https://thegrid.ai/5amsunrises/07f8977f-9600-4057-a03f-69843aac6c47/index.html</link>
+            <guid isPermaLink="false">07f8977f-9600-4057-a03f-69843aac6c47</guid>
+            <pubDate>Wed, 06 Jan 2016 15:56:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>test</p>]]></description>
-            <link>undefined1d6c8c5d-c5f2-4b55-9ea4-e0db37e6913a/index.html</link>
+            <link>https://thegrid.ai/5amsunrises/1d6c8c5d-c5f2-4b55-9ea4-e0db37e6913a/index.html</link>
             <guid isPermaLink="false">1d6c8c5d-c5f2-4b55-9ea4-e0db37e6913a</guid>
             <pubDate>Wed, 06 Jan 2016 15:55:52 GMT</pubDate>
         </item>
