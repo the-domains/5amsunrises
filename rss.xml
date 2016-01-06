@@ -4,8 +4,15 @@
         <description><![CDATA[5am Sunrises]]></description>
         <link>https://thegrid.ai/5amsunrises/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 16:43:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jan 2016 16:44:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/5amsunrises/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[foto]]></title>
+            <description><![CDATA[<article><h1>foto</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57e66e71-809d-4e08-b324-7a3af500d895.jpg"></article>]]></description>
+            <link>https://thegrid.ai/5amsunrises/foto/index.html</link>
+            <guid isPermaLink="false">a0abcb71-19d9-4c6c-9f7f-9b1b35df13eb</guid>
+            <pubDate>Wed, 06 Jan 2016 16:44:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[over mij]]></title>
             <description><![CDATA[<article><h1>over mij</h1><p>test navigatie ?</p></article>]]></description>
