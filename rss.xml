@@ -4,14 +4,14 @@
         <description><![CDATA[5am Sunrises]]></description>
         <link>https://thegrid.ai/5amsunrises/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 20:51:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 21:03:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/5amsunrises/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[post 1 testttt]]></title>
-            <description><![CDATA[<article><h1>post 1 testttt</h1><p>whoop! working on my new website :)</p></article>]]></description>
+            <title><![CDATA[brand new website]]></title>
+            <description><![CDATA[<article><h1>brand new website</h1><p>whoop! working on my new website :)</p></article>]]></description>
             <link>https://thegrid.ai/5amsunrises/post-1-testttt/index.html</link>
             <guid isPermaLink="false">7194379c-5725-4fcd-b4d2-68b9143c0174</guid>
-            <pubDate>Thu, 18 Feb 2016 20:51:25 GMT</pubDate>
+            <pubDate>Thu, 18 Feb 2016 21:03:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
