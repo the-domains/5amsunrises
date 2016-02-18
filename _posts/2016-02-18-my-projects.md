@@ -6,20 +6,21 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-18T21:20:05.271Z'
-dateModified: '2016-02-18T21:19:48.434Z'
+datePublished: '2016-02-18T21:26:42.654Z'
+dateModified: '2016-02-18T21:22:23.572Z'
 title: My Projects
+author: []
+sourcePath: _posts/2016-02-18-my-projects.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-02-18-my-projects.md
-published: true
 url: my-projects/index.html
 _type: WebPage
 
 ---
 Yoga With the Homies
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb83a3eb-6ac3-4e6e-a3f4-eb5b6d4fca85.jpg)
