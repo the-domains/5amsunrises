@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T18:17:43.609Z'
-dateModified: '2016-02-20T18:17:33.207Z'
+datePublished: '2016-02-20T18:18:20.666Z'
+dateModified: '2016-02-20T18:18:06.253Z'
 title: Follow me
 author: []
 sourcePath: _posts/2016-02-20-get-to-know-me.md
@@ -36,6 +36,6 @@ Ik kies voor mezelf, neem de tijd om te helen. Dansen . Schilderen . Fotografere
 
 Liefs, Lizzy Lynn
 
-# Follow me
+## Follow me
 
 Instagram // Facebook // Twitter // Pinterest
