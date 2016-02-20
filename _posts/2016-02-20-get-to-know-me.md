@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T16:52:58.623Z'
-dateModified: '2016-02-20T16:52:22.352Z'
+datePublished: '2016-02-20T16:58:49.970Z'
+dateModified: '2016-02-20T16:56:57.727Z'
 title: Get to know me
+author: []
+sourcePath: _posts/2016-02-20-get-to-know-me.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-02-20-get-to-know-me.md
-published: true
 url: get-to-know-me/index.html
 _type: WebPage
 
