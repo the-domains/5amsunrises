@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T18:08:39.190Z'
-dateModified: '2016-02-20T18:08:35.625Z'
+datePublished: '2016-02-20T18:10:32.877Z'
+dateModified: '2016-02-20T18:10:29.460Z'
 title: Follow me
 author: []
 sourcePath: _posts/2016-02-20-get-to-know-me.md
@@ -26,9 +26,7 @@ _type: WebPage
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85978a8b-faba-4ccd-866d-3fe0a0237a5f.JPG)
 
-## Ik doe mijn ding 
-
-## en die liefde wil ik delen
+## Ik doe mijn ding en die liefde wil ik delen
 
 Wie? Wat? Waar? Mensen proberen je te vertellen hoe! Maar what about hoe ik me voel? Dus ik volgde de vibes and it led me to you.
 
