@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-24T16:01:21.788Z'
-dateModified: '2016-02-24T16:00:52.925Z'
-title: Follow me
+description: 'Lizzy who?!'
+datePublished: '2016-02-24T16:24:28.492Z'
+dateModified: '2016-02-24T16:24:19.190Z'
+title: 'Lizzy Who?!'
 author: []
 sourcePath: _posts/2016-02-20-get-to-know-me.md
 published: true
@@ -38,8 +38,11 @@ Liefs,
 
 Lizzy Lynn
 
-# Follow me
+**Follow me**
 
-Instagram // Facebook // Twitter // Pinterest
+[Instagram][0] // [Facebook][1] // [Twitter][2] // [Pinterest][3]
 
-# Get to know me
+[0]: https://www.instagram.com/lizzy_lynn/
+[1]: https://www.facebook.com/5amSunrises
+[2]: https://twitter.com/Lizzy_Lynn
+[3]: https://nl.pinterest.com/lizzylynnn/
