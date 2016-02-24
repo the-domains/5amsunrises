@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-24T15:49:40.826Z'
-dateModified: '2016-02-24T15:49:14.832Z'
+datePublished: '2016-02-24T16:00:21.938Z'
+dateModified: '2016-02-24T16:00:07.913Z'
 title: Follow me
 author: []
 sourcePath: _posts/2016-02-20-get-to-know-me.md
@@ -41,3 +41,5 @@ Lizzy Lynn
 # Follow me
 
 Instagram // Facebook // Twitter // Pinterest
+
+# Get to know me
