@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-18T20:59:51.125Z'
-dateModified: '2016-02-18T20:59:49.596Z'
+datePublished: '2016-02-24T16:26:21.297Z'
+dateModified: '2016-02-24T16:26:15.583Z'
 title: Good Vibe Tribe
 author: []
 sourcePath: _posts/2016-02-16-good-vibe-tribe.md
@@ -22,6 +22,8 @@ url: good-vibe-tribe/index.html
 _type: WebPage
 
 ---
-Just awesome people
+> Just awesome people
 
-doing awesome things
+> doing awesome things
+
+stay tuned <\><\></\></\>
