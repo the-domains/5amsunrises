@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T18:24:33.378Z'
-dateModified: '2016-02-20T18:23:02.097Z'
-title: Get to know me
+datePublished: '2016-02-24T15:49:40.826Z'
+dateModified: '2016-02-24T15:49:14.832Z'
+title: Follow me
 author: []
 sourcePath: _posts/2016-02-20-get-to-know-me.md
 published: true
@@ -26,7 +26,7 @@ _type: WebPage
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85978a8b-faba-4ccd-866d-3fe0a0237a5f.JPG)
 
-Ik doe mijn ding en die liefde wil ik delen
+> Ik doe mijn ding en die liefde wil ik delen
 
 Wie? Wat? Waar? Mensen proberen je te vertellen hoe! Maar what about hoe ik me voel? Dus ik volgde de vibes and it led me to you.
 
@@ -34,8 +34,10 @@ Hiphop door mn speakers, yoga mat onder mn voeten. Ik luister . Voel . Explore .
 
 Ik kies voor mezelf, neem de tijd om te helen. Dansen . Schilderen . Fotograferen . Schrijven . Spelen. Ik doe mijn ding en die liefde wil ik delen.
 
-Liefs, Lizzy Lynn
+Liefs, 
 
-Follow me
+Lizzy Lynn
+
+# Follow me
 
 Instagram // Facebook // Twitter // Pinterest
